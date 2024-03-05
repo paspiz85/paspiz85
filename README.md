@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+Here are some ideas to get you started:
+Here are my public works, for further information about me visit my personal page [https://paspiz85.github.io/](https://paspiz85.github.io/)
+
 <!--
 **paspiz85/paspiz85** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
