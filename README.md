@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 Here are my public works, for further information about me visit my personal page [https://paspiz85.github.io/](https://paspiz85.github.io/)
 
 <!--
